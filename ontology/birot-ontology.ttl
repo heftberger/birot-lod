@@ -32,6 +32,7 @@
 
 <https://birot.github.io/ontology/hasWikidataId> a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
     rdfs:label "Has Wikidata Id"@en ;
+    rdfs:domain <https://birot.github.io/ontology/Book> ;
     rdfs:range xsd:string .
 
 <https://birot.github.io/ontology/isAuthorOf> a <http://www.w3.org/2002/07/owl#ObjectProperty> ;
@@ -66,9 +67,9 @@
 <https://birot.github.io/ontology/Person> a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:label "Person"@en .
 
-<https://birot.github.io/ontology/Book> a <http://www.w3.org/2002/07/owl#Class> ;
-    rdfs:label "Book"@en .
-
 <https://birot.github.io/ontology/Event> a <http://www.w3.org/2002/07/owl#Class> ;
     rdfs:label "Event"@en .
+
+<https://birot.github.io/ontology/Book> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:label "Book"@en .
 

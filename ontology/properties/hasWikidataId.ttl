@@ -3,4 +3,5 @@
 
 <https://birot.github.io/ontology/hasWikidataId> a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
     rdfs:label "Has Wikidata Id"@en ;
+    rdfs:domain <https://birot.github.io/ontology/Book> ;
     rdfs:range xsd:string .
