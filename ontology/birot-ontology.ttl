@@ -1,0 +1,74 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://birot.github.io/ontology/PublicationEvent> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:label "Publication Event"@en ;
+    rdfs:subClassOf <https://birot.github.io/ontology/Event> .
+
+<https://birot.github.io/ontology/hasBook> a <http://www.w3.org/2002/07/owl#ObjectProperty> ;
+    rdfs:label "Has Book"@en ;
+    rdfs:domain <https://birot.github.io/ontology/ReadingEvent> ;
+    rdfs:range <https://birot.github.io/ontology/Book> .
+
+<https://birot.github.io/ontology/hasEndDate> a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:label "Event End Date"@en ;
+    rdfs:domain <https://birot.github.io/ontology/Event> ;
+    rdfs:range xsd:string .
+
+<https://birot.github.io/ontology/hasLanguage> a <http://www.w3.org/2002/07/owl#ObjectProperty> ;
+    rdfs:label "Has Language"@en ;
+    rdfs:domain <https://birot.github.io/ontology/Book> ;
+    rdfs:range <https://birot.github.io/ontology/Language> .
+
+<https://birot.github.io/ontology/hasReader> a <http://www.w3.org/2002/07/owl#ObjectProperty> ;
+    rdfs:label "Has Reader"@en ;
+    rdfs:domain <https://birot.github.io/ontology/ReadingEvent> ;
+    rdfs:range <https://birot.github.io/ontology/Reader> .
+
+<https://birot.github.io/ontology/hasStartDate> a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:label "Event Start Date"@en ;
+    rdfs:domain <https://birot.github.io/ontology/Event> ;
+    rdfs:range xsd:string .
+
+<https://birot.github.io/ontology/hasWikidataId> a <http://www.w3.org/2002/07/owl#DatatypeProperty> ;
+    rdfs:label "Has Wikidata Id"@en ;
+    rdfs:range xsd:string .
+
+<https://birot.github.io/ontology/isAuthorOf> a <http://www.w3.org/2002/07/owl#ObjectProperty> ;
+    rdfs:label "Is Author Of"@en ;
+    rdfs:domain <https://birot.github.io/ontology/Author> ;
+    rdfs:range <https://birot.github.io/ontology/Book> .
+
+<https://birot.github.io/ontology/isEditorOf> a <http://www.w3.org/2002/07/owl#ObjectProperty> ;
+    rdfs:label "Is Editor Of"@en ;
+    rdfs:domain <https://birot.github.io/ontology/Editor> ;
+    rdfs:range <https://birot.github.io/ontology/Book> .
+
+<https://birot.github.io/ontology/Author> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:label "Author"@en ;
+    rdfs:subClassOf <https://birot.github.io/ontology/Person> .
+
+<https://birot.github.io/ontology/Editor> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:label "Editor"@en ;
+    rdfs:subClassOf <https://birot.github.io/ontology/Person> .
+
+<https://birot.github.io/ontology/Language> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:label "Language"@en .
+
+<https://birot.github.io/ontology/Reader> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:label "Reader"@en ;
+    rdfs:subClassOf <https://birot.github.io/ontology/Person> .
+
+<https://birot.github.io/ontology/ReadingEvent> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:label "Reading Event"@en ;
+    rdfs:subClassOf <https://birot.github.io/ontology/Event> .
+
+<https://birot.github.io/ontology/Person> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:label "Person"@en .
+
+<https://birot.github.io/ontology/Book> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:label "Book"@en .
+
+<https://birot.github.io/ontology/Event> a <http://www.w3.org/2002/07/owl#Class> ;
+    rdfs:label "Event"@en .
+

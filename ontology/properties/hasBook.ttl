@@ -1,0 +1,6 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://birot.github.io/ontology/hasBook> a <http://www.w3.org/2002/07/owl#ObjectProperty> ;
+    rdfs:label "Has Book"@en ;
+    rdfs:domain <https://birot.github.io/ontology/ReadingEvent> ;
+    rdfs:range <https://birot.github.io/ontology/Book> .

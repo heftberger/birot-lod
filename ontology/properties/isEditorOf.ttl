@@ -1,0 +1,6 @@
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+<https://birot.github.io/ontology/isEditorOf> a <http://www.w3.org/2002/07/owl#ObjectProperty> ;
+    rdfs:label "Is Editor Of"@en ;
+    rdfs:domain <https://birot.github.io/ontology/Editor> ;
+    rdfs:range <https://birot.github.io/ontology/Book> .
