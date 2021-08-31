@@ -9378,11 +9378,13 @@
 
 <https://birot.github.io/book/0000001> a ns1:Book ;
     rdfs:label "Kane & Abel" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q3236161" .
 
 <https://birot.github.io/book/0000003> a ns1:Book ;
     rdfs:label "Paris - Ein Fest fürs Leben" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q2052363" .
 
 <https://birot.github.io/book/0000004> a ns1:Book ;
     rdfs:label "Kitchen" ;
@@ -9391,7 +9393,8 @@
 
 <https://birot.github.io/book/0000005> a ns1:Book ;
     rdfs:label "N.P." ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q849015" .
 
 <https://birot.github.io/book/0000006> a ns1:Book ;
     rdfs:label "Gott schütze dieses Haus" ;
@@ -9403,8 +9406,7 @@
 
 <https://birot.github.io/book/0000008> a ns1:Book ;
     rdfs:label "Acqua Alta" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q3055185" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000009> a ns1:Book ;
     rdfs:label "Der Charme des Indiskreten" ;
@@ -9412,7 +9414,8 @@
 
 <https://birot.github.io/book/0000010> a ns1:Book ;
     rdfs:label "Shogun" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1336124" .
 
 <https://birot.github.io/book/0000011> a ns1:Book ;
     rdfs:label "Hiroshima - mon amour" ;
@@ -9468,7 +9471,8 @@
 
 <https://birot.github.io/book/0000024> a ns1:Book ;
     rdfs:label "Geschehnisse am Wasser" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1516280" .
 
 <https://birot.github.io/book/0000025> a ns1:Book ;
     rdfs:label "Die Amerikaner pauschal" ;
@@ -9492,7 +9496,8 @@
 
 <https://birot.github.io/book/0000030> a ns1:Book ;
     rdfs:label "Das tote Brügge" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1171637" .
 
 <https://birot.github.io/book/0000031> a ns1:Book ;
     rdfs:label "Die Templer" ;
@@ -9516,11 +9521,13 @@
 
 <https://birot.github.io/book/0000036> a ns1:Book ;
     rdfs:label "Die Entdeckung der Langsamkeit" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q911338" .
 
 <https://birot.github.io/book/0000037> a ns1:Book ;
     rdfs:label "Die Musik des Zufalls" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1214916" .
 
 <https://birot.github.io/book/0000038> a ns1:Book ;
     rdfs:label "New York liegt im Neandertal" ;
@@ -9532,7 +9539,8 @@
 
 <https://birot.github.io/book/0000040> a ns1:Book ;
     rdfs:label "Quer durch" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1619404" .
 
 <https://birot.github.io/book/0000041> a ns1:Book ;
     rdfs:label "Skandal bei Hof" ;
@@ -9540,11 +9548,13 @@
 
 <https://birot.github.io/book/0000042> a ns1:Book ;
     rdfs:label "Game Over" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q3205586" .
 
 <https://birot.github.io/book/0000043> a ns1:Book ;
     rdfs:label "L.A. Confidential" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1895605" .
 
 <https://birot.github.io/book/0000044> a ns1:Book ;
     rdfs:label "Wie wirklich ist die Wirklichkeit" ;
@@ -9572,7 +9582,8 @@
 
 <https://birot.github.io/book/0000050> a ns1:Book ;
     rdfs:label "Reise nach Rußland" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q871753" .
 
 <https://birot.github.io/book/0000051> a ns1:Book ;
     rdfs:label "Die Frauen der Habsburger" ;
@@ -9592,11 +9603,13 @@
 
 <https://birot.github.io/book/0000056> a ns1:Book ;
     rdfs:label "The Notebook" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1886814" .
 
 <https://birot.github.io/book/0000057> a ns1:Book ;
     rdfs:label "The Horse Whisperer" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1448153" .
 
 <https://birot.github.io/book/0000058> a ns1:Book ;
     rdfs:label "Dracula" ;
@@ -9605,7 +9618,8 @@
 
 <https://birot.github.io/book/0000059> a ns1:Book ;
     rdfs:label "Ich saß am Ufer des Rio Puedra und weinte" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q247379" .
 
 <https://birot.github.io/book/0000060> a ns1:Book ;
     rdfs:label "The Sculptress" ;
@@ -9623,7 +9637,8 @@
 
 <https://birot.github.io/book/0000063> a ns1:Book ;
     rdfs:label "Mein Herz so weiß" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1917901" .
 
 <https://birot.github.io/book/0000064> a ns1:Book ;
     rdfs:label "Die erfundene Wirklichkeit" ;
@@ -9677,7 +9692,8 @@
 
 <https://birot.github.io/book/0000076> a ns1:Book ;
     rdfs:label "Das Leben Karls des Großen" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q538574" .
 
 <https://birot.github.io/book/0000077> a ns1:Book ;
     rdfs:label "Liebeserklärungen" ;
@@ -9698,7 +9714,8 @@
 
 <https://birot.github.io/book/0000081> a ns1:Book ;
     rdfs:label "Zen und die Kunst ein Motorrad zu warten" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q189446" .
 
 <https://birot.github.io/book/0000082> a ns1:Book ;
     rdfs:label "Wittgensteins Neffe" ;
@@ -9732,11 +9749,13 @@
 
 <https://birot.github.io/book/0000090> a ns1:Book ;
     rdfs:label "The Dark Room" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q7728987" .
 
 <https://birot.github.io/book/0000091> a ns1:Book ;
     rdfs:label "Die Langsamkeit" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q767254" .
 
 <https://birot.github.io/book/0000092> a ns1:Book ;
     rdfs:label "Wenn der Fluß voll Whisky wär" ;
@@ -9744,7 +9763,8 @@
 
 <https://birot.github.io/book/0000093> a ns1:Book ;
     rdfs:label "Die geheime Geschichte" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1218321" .
 
 <https://birot.github.io/book/0000094> a ns1:Book ;
     rdfs:label "Die letzte Welt" ;
@@ -9757,15 +9777,18 @@
 
 <https://birot.github.io/book/0000096> a ns1:Book ;
     rdfs:label "Garp und wie er die Welt sah" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q2507282" .
 
 <https://birot.github.io/book/0000097> a ns1:Book ;
     rdfs:label "Roman" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q4142541" .
 
 <https://birot.github.io/book/0000098> a ns1:Book ;
     rdfs:label "Die Brücke über die Drina" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1247865" .
 
 <https://birot.github.io/book/0000099> a ns1:Book ;
     rdfs:label "Sarajevo Marlboro" ;
@@ -9786,7 +9809,8 @@
 
 <https://birot.github.io/book/0000103> a ns1:Book ;
     rdfs:label "Zionoco" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q4843641" .
 
 <https://birot.github.io/book/0000104> a ns1:Book ;
     rdfs:label "Emotionale Intelligenz" ;
@@ -9794,7 +9818,8 @@
 
 <https://birot.github.io/book/0000105> a ns1:Book ;
     rdfs:label "Der Derwisch und der Tod" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1192882" .
 
 <https://birot.github.io/book/0000106> a ns1:Book ;
     rdfs:label "Tagebuch der Aussiedelung" ;
@@ -9802,11 +9827,13 @@
 
 <https://birot.github.io/book/0000107> a ns1:Book ;
     rdfs:label "Eureka Street, Belfast" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q3734614" .
 
 <https://birot.github.io/book/0000108> a ns1:Book ;
     rdfs:label "The Hotel New Hampshire" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1169021" .
 
 <https://birot.github.io/book/0000110> a ns1:Book ;
     rdfs:label "Der östliche Diwan" ;
@@ -9839,7 +9866,8 @@
 
 <https://birot.github.io/book/0000117> a ns1:Book ;
     rdfs:label "Amerigo" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q675609" .
 
 <https://birot.github.io/book/0000118> a ns1:Book ;
     rdfs:label "Die Trostfrau" ;
@@ -9851,7 +9879,8 @@
 
 <https://birot.github.io/book/0000120> a ns1:Book ;
     rdfs:label "Through the Looking Glass" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q220331" .
 
 <https://birot.github.io/book/0000121> a ns1:Book ;
     rdfs:label "Von der Liebe und ihren Bedingungen" ;
@@ -9881,19 +9910,23 @@
 
 <https://birot.github.io/book/0000127> a ns1:Book ;
     rdfs:label "Von der Hand in den Mund" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q17027694" .
 
 <https://birot.github.io/book/0000128> a ns1:Book ;
     rdfs:label "The Beach" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1197181" .
 
 <https://birot.github.io/book/0000129> a ns1:Book ;
     rdfs:label "The New York Trilogy" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1215203" .
 
 <https://birot.github.io/book/0000130> a ns1:Book ;
     rdfs:label "Wie der Stahl gehärtet wurde" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q63707" .
 
 <https://birot.github.io/book/0000131> a ns1:Book ;
     rdfs:label "Die Reise nach Petuschki" ;
@@ -9909,7 +9942,8 @@
 
 <https://birot.github.io/book/0000134> a ns1:Book ;
     rdfs:label "Ein idealer Gatte" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1143075" .
 
 <https://birot.github.io/book/0000135> a ns1:Book ;
     rdfs:label "Zwischenbilanz" ;
@@ -9988,11 +10022,13 @@
 
 <https://birot.github.io/book/0000153> a ns1:Book ;
     rdfs:label "Morbus kitahara" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1314675" .
 
 <https://birot.github.io/book/0000154> a ns1:Book ;
     rdfs:label "Angelas ashes" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q892456" .
 
 <https://birot.github.io/book/0000155> a ns1:Book ;
     rdfs:label "Christus kam nur bis Eboli" ;
@@ -10001,15 +10037,18 @@
 
 <https://birot.github.io/book/0000156> a ns1:Book ;
     rdfs:label "The End of the Affair" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q905112" .
 
 <https://birot.github.io/book/0000157> a ns1:Book ;
     rdfs:label "Der Unbesiegbar" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1197675" .
 
 <https://birot.github.io/book/0000158> a ns1:Book ;
     rdfs:label "Gast im Weltraum" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q2661598" .
 
 <https://birot.github.io/book/0000159> a ns1:Book ;
     rdfs:label "Judiths Liebe" ;
@@ -10023,7 +10062,7 @@
 <https://birot.github.io/book/0000161> a ns1:Book ;
     rdfs:label "Nacht und Schimmel" ;
     ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q1962628" .
+    ns1:hasWikidataId "Q1627253" .
 
 <https://birot.github.io/book/0000162> a ns1:Book ;
     rdfs:label "Reisen mit Virginia Woolf" ;
@@ -10035,11 +10074,13 @@
 
 <https://birot.github.io/book/0000164> a ns1:Book ;
     rdfs:label "Ein Zimmer für sich allein" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1204366" .
 
 <https://birot.github.io/book/0000165> a ns1:Book ;
     rdfs:label "Hiob" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q699443" .
 
 <https://birot.github.io/book/0000166> a ns1:Book ;
     rdfs:label "The Millenium Girl" ;
@@ -10047,7 +10088,8 @@
 
 <https://birot.github.io/book/0000167> a ns1:Book ;
     rdfs:label "Die Wellen" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1217475" .
 
 <https://birot.github.io/book/0000168> a ns1:Book ;
     rdfs:label "Mad Cows" ;
@@ -10055,7 +10097,8 @@
 
 <https://birot.github.io/book/0000169> a ns1:Book ;
     rdfs:label "Montauk" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1945633" .
 
 <https://birot.github.io/book/0000170> a ns1:Book ;
     rdfs:label "Wie die Welt noch einmal davonkam" ;
@@ -10084,7 +10127,8 @@
 
 <https://birot.github.io/book/0000176> a ns1:Book ;
     rdfs:label "Dreams of my Russian Summers" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q3227651" .
 
 <https://birot.github.io/book/0000177> a ns1:Book ;
     rdfs:label "Tagebuch einer Reise nach Rußland" ;
@@ -10110,7 +10154,8 @@
 
 <https://birot.github.io/book/0000182> a ns1:Book ;
     rdfs:label "All Around the Town" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q3344972" .
 
 <https://birot.github.io/book/0000183> a ns1:Book ;
     rdfs:label "Der Himmel unter der Stadt" ;
@@ -10118,7 +10163,8 @@
 
 <https://birot.github.io/book/0000184> a ns1:Book ;
     rdfs:label "Prince Caspian" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q218950" .
 
 <https://birot.github.io/book/0000185> a ns1:Book ;
     rdfs:label "Utopie der Säuberung" ;
@@ -10135,7 +10181,8 @@
 
 <https://birot.github.io/book/0000188> a ns1:Book ;
     rdfs:label "The Silver Chair" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q331669" .
 
 <https://birot.github.io/book/0000189> a ns1:Book ;
     rdfs:label "Das kleine Buch der großen Liebe" ;
@@ -10188,7 +10235,8 @@
 
 <https://birot.github.io/book/0000201> a ns1:Book ;
     rdfs:label "Generation P" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1501991" .
 
 <https://birot.github.io/book/0000202> a ns1:Book ;
     rdfs:label "Mörder in Manhattan" ;
@@ -10208,11 +10256,13 @@
 
 <https://birot.github.io/book/0000206> a ns1:Book ;
     rdfs:label "Wesire und Konsule" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q824338" .
 
 <https://birot.github.io/book/0000207> a ns1:Book ;
     rdfs:label "Die Rückkehr des Filip Latinovicz" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1215882" .
 
 <https://birot.github.io/book/0000208> a ns1:Book ;
     rdfs:label "Hände" ;
@@ -10228,7 +10278,8 @@
 
 <https://birot.github.io/book/0000211> a ns1:Book ;
     rdfs:label "Die Entdeckung des Himmels" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1212173" .
 
 <https://birot.github.io/book/0000212> a ns1:Book ;
     rdfs:label "Schloß Gripsholm" ;
@@ -10241,23 +10292,28 @@
 
 <https://birot.github.io/book/0000214> a ns1:Book ;
     rdfs:label "New York" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q6316133" .
 
 <https://birot.github.io/book/0000215> a ns1:Book ;
     rdfs:label "Harry Potter and the Philospher's Stone" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q43361" .
 
 <https://birot.github.io/book/0000216> a ns1:Book ;
     rdfs:label "Die weiße Löwin" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q514724" .
 
 <https://birot.github.io/book/0000217> a ns1:Book ;
     rdfs:label "Der gestiefelte Kater" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1198710" .
 
 <https://birot.github.io/book/0000218> a ns1:Book ;
     rdfs:label "Anmerkungen zu Hitler" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q557949" .
 
 <https://birot.github.io/book/0000219> a ns1:Book ;
     rdfs:label "Der Liebes-Almanach" ;
@@ -10265,7 +10321,8 @@
 
 <https://birot.github.io/book/0000220> a ns1:Book ;
     rdfs:label "Lebensansichten des Kater Murr" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1314475" .
 
 <https://birot.github.io/book/0000221> a ns1:Book ;
     rdfs:label "Eine Klasse für sich" ;
@@ -10278,7 +10335,8 @@
 
 <https://birot.github.io/book/0000223> a ns1:Book ;
     rdfs:label "6 Personen suchen einen Autor" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q641651" .
 
 <https://birot.github.io/book/0000224> a ns1:Book ;
     rdfs:label "Ein Diebstahl" ;
@@ -10332,7 +10390,8 @@
 
 <https://birot.github.io/book/0000236> a ns1:Book ;
     rdfs:label "Die neun Pforten" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1192798" .
 
 <https://birot.github.io/book/0000237> a ns1:Book ;
     rdfs:label "Der Exerzierplatz" ;
@@ -10340,23 +10399,28 @@
 
 <https://birot.github.io/book/0000238> a ns1:Book ;
     rdfs:label "Das Geheimnnis der schwarzen Dame" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1192798" .
 
 <https://birot.github.io/book/0000239> a ns1:Book ;
     rdfs:label "Der Boden unter ihren Füßen" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q224965" .
 
 <https://birot.github.io/book/0000240> a ns1:Book ;
     rdfs:label "Die fünfte Frau" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q301800" .
 
 <https://birot.github.io/book/0000241> a ns1:Book ;
     rdfs:label "Hunde von Riga" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1637394" .
 
 <https://birot.github.io/book/0000242> a ns1:Book ;
     rdfs:label "White Teeth" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q866980" .
 
 <https://birot.github.io/book/0000243> a ns1:Book ;
     rdfs:label "Love of Stones" ;
@@ -10374,11 +10438,13 @@
 
 <https://birot.github.io/book/0000246> a ns1:Book ;
     rdfs:label "Lulu" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q478364" .
 
 <https://birot.github.io/book/0000247> a ns1:Book ;
     rdfs:label "Herodias" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q2126429" .
 
 <https://birot.github.io/book/0000248> a ns1:Book ;
     rdfs:label "Auf fremdem Terrain" ;
@@ -10399,7 +10465,8 @@
 
 <https://birot.github.io/book/0000252> a ns1:Book ;
     rdfs:label "I Dreamed of Africa" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q3964056" .
 
 <https://birot.github.io/book/0000253> a ns1:Book ;
     rdfs:label "Der Berg" ;
@@ -10420,7 +10487,8 @@
 
 <https://birot.github.io/book/0000257> a ns1:Book ;
     rdfs:label "Long Day's Journey into Night" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q618430" .
 
 <https://birot.github.io/book/0000258> a ns1:Book ;
     rdfs:label "Schiffsmeldungen" ;
@@ -10428,12 +10496,12 @@
 
 <https://birot.github.io/book/0000259> a ns1:Book ;
     rdfs:label "Die Flucht der Flamen" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1885256" .
 
 <https://birot.github.io/book/0000260> a ns1:Book ;
     rdfs:label "Die andere Seite" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q443991" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000261> a ns1:Book ;
     rdfs:label "In der Wand" ;
@@ -10441,19 +10509,23 @@
 
 <https://birot.github.io/book/0000262> a ns1:Book ;
     rdfs:label "Norwegian Wood" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q751348" .
 
 <https://birot.github.io/book/0000263> a ns1:Book ;
     rdfs:label "War Against People" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q5528984" .
 
 <https://birot.github.io/book/0000264> a ns1:Book ;
     rdfs:label "The Golden Compass" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q169976" .
 
 <https://birot.github.io/book/0000265> a ns1:Book ;
     rdfs:label "The Subtle Knife" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q472208" .
 
 <https://birot.github.io/book/0000266> a ns1:Book ;
     rdfs:label "Am Puls des Planeten" ;
@@ -10461,7 +10533,8 @@
 
 <https://birot.github.io/book/0000267> a ns1:Book ;
     rdfs:label "Touching the Void" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q4336884" .
 
 <https://birot.github.io/book/0000268> a ns1:Book ;
     rdfs:label "Die Alchimistin" ;
@@ -10469,11 +10542,13 @@
 
 <https://birot.github.io/book/0000269> a ns1:Book ;
     rdfs:label "In eisige Höhen" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q851767" .
 
 <https://birot.github.io/book/0000270> a ns1:Book ;
     rdfs:label "The Fugitive" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q5507274" .
 
 <https://birot.github.io/book/0000271> a ns1:Book ;
     rdfs:label "13 Spiegel meiner Seele" ;
@@ -10485,7 +10560,8 @@
 
 <https://birot.github.io/book/0000273> a ns1:Book ;
     rdfs:label "Balzac und die kleine chinesische Schneiderin" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q805878" .
 
 <https://birot.github.io/book/0000274> a ns1:Book ;
     rdfs:label "Würdest du bitte endlich still sein bitte?" ;
@@ -10498,23 +10574,27 @@
 <https://birot.github.io/book/0000276> a ns1:Book ;
     rdfs:label "Gargantua" ;
     ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q10288350" .
+    ns1:hasWikidataId "Q822290" .
 
 <https://birot.github.io/book/0000277> a ns1:Book ;
     rdfs:label "Die Glut" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q366726" .
 
 <https://birot.github.io/book/0000278> a ns1:Book ;
     rdfs:label "Candid" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q215894" .
 
 <https://birot.github.io/book/0000279> a ns1:Book ;
     rdfs:label "Bouvard und Pechuchet" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q3026751" .
 
 <https://birot.github.io/book/0000280> a ns1:Book ;
     rdfs:label "The Amber Spyglass" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q129929" .
 
 <https://birot.github.io/book/0000281> a ns1:Book ;
     rdfs:label "Die Rolle meiner Familie in der Weltrevolution" ;
@@ -10526,36 +10606,42 @@
 
 <https://birot.github.io/book/0000283> a ns1:Book ;
     rdfs:label "Der aufhaltsame Aufstieg des Arturo Ui" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1198320" .
 
 <https://birot.github.io/book/0000284> a ns1:Book ;
     rdfs:label "The Land of Laughter" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1138060" .
 
 <https://birot.github.io/book/0000285> a ns1:Book ;
     rdfs:label "Bittersüße Schokolade" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1777072" .
 
 <https://birot.github.io/book/0000286> a ns1:Book ;
     rdfs:label "Schweijk im zweiten Weltkrieg" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q544256" .
 
 <https://birot.github.io/book/0000287> a ns1:Book ;
     rdfs:label "The Age of Innocence" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1045464" .
 
 <https://birot.github.io/book/0000288> a ns1:Book ;
     rdfs:label "Geschichte eines Deutschen" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q1261623" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000289> a ns1:Book ;
     rdfs:label "Wenn ein Reisender in einer Winternacht" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1032190" .
 
 <https://birot.github.io/book/0000290> a ns1:Book ;
     rdfs:label "The Voice of our Shadow" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q16964989" .
 
 <https://birot.github.io/book/0000291> a ns1:Book ;
     rdfs:label "Der Wind kommt von Westen" ;
@@ -10563,7 +10649,8 @@
 
 <https://birot.github.io/book/0000292> a ns1:Book ;
     rdfs:label "Der Gott der kleinen Dinge" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q378786" .
 
 <https://birot.github.io/book/0000293> a ns1:Book ;
     rdfs:label "Sommerhaus, später" ;
@@ -10571,19 +10658,23 @@
 
 <https://birot.github.io/book/0000294> a ns1:Book ;
     rdfs:label "Die Grasharfe" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1785002" .
 
 <https://birot.github.io/book/0000295> a ns1:Book ;
     rdfs:label "Little Women" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q523076" .
 
 <https://birot.github.io/book/0000296> a ns1:Book ;
     rdfs:label "About a Boy" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q323146" .
 
 <https://birot.github.io/book/0000297> a ns1:Book ;
     rdfs:label "Rose in Bloom" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q7368002" .
 
 <https://birot.github.io/book/0000298> a ns1:Book ;
     rdfs:label "Bildung" ;
@@ -10595,7 +10686,8 @@
 
 <https://birot.github.io/book/0000300> a ns1:Book ;
     rdfs:label "Down under" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q5302883" .
 
 <https://birot.github.io/book/0000301> a ns1:Book ;
     rdfs:label "Der gläserne Horizont" ;
@@ -10603,7 +10695,8 @@
 
 <https://birot.github.io/book/0000302> a ns1:Book ;
     rdfs:label "Lichtjahre" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q3012670" .
 
 <https://birot.github.io/book/0000303> a ns1:Book ;
     rdfs:label "Turning Thirty" ;
@@ -10622,7 +10715,8 @@
 
 <https://birot.github.io/book/0000306> a ns1:Book ;
     rdfs:label "The Return of the Kind" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q332581" .
 
 <https://birot.github.io/book/0000307> a ns1:Book ;
     rdfs:label "Die sterbenden Europäer" ;
@@ -10638,7 +10732,8 @@
 
 <https://birot.github.io/book/0000310> a ns1:Book ;
     rdfs:label "Gefährliche Geliebte" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q466412" .
 
 <https://birot.github.io/book/0000311> a ns1:Book ;
     rdfs:label "Das griechische Feuer" ;
@@ -10654,11 +10749,13 @@
 
 <https://birot.github.io/book/0000314> a ns1:Book ;
     rdfs:label "Mythen des Alltags" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1396027" .
 
 <https://birot.github.io/book/0000315> a ns1:Book ;
     rdfs:label "Agnes" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q394442" .
 
 <https://birot.github.io/book/0000316> a ns1:Book ;
     rdfs:label "Die Eroberung Amerikas" ;
@@ -10679,7 +10776,8 @@
 
 <https://birot.github.io/book/0000320> a ns1:Book ;
     rdfs:label "Cat on a Hot Tin Roof" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q606930" .
 
 <https://birot.github.io/book/0000321> a ns1:Book ;
     rdfs:label "Flaubert's Parrot" ;
@@ -10700,7 +10798,8 @@
 
 <https://birot.github.io/book/0000325> a ns1:Book ;
     rdfs:label "Stupid White Man" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1896277" .
 
 <https://birot.github.io/book/0000326> a ns1:Book ;
     rdfs:label "Die Seekarte" ;
@@ -10725,7 +10824,8 @@
 
 <https://birot.github.io/book/0000331> a ns1:Book ;
     rdfs:label "Moon Palace" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1944147" .
 
 <https://birot.github.io/book/0000332> a ns1:Book ;
     rdfs:label "The Moonstone" ;
@@ -10734,7 +10834,8 @@
 
 <https://birot.github.io/book/0000333> a ns1:Book ;
     rdfs:label "A Streetcar named Desire" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q842106" .
 
 <https://birot.github.io/book/0000334> a ns1:Book ;
     rdfs:label "Ein so langer Brief" ;
@@ -10742,7 +10843,8 @@
 
 <https://birot.github.io/book/0000335> a ns1:Book ;
     rdfs:label "Madame Bovary" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q193417" .
 
 <https://birot.github.io/book/0000336> a ns1:Book ;
     rdfs:label "Fool on the Hill" ;
@@ -10751,7 +10853,8 @@
 
 <https://birot.github.io/book/0000337> a ns1:Book ;
     rdfs:label "Die Holocaust-Industrie" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1768389" .
 
 <https://birot.github.io/book/0000338> a ns1:Book ;
     rdfs:label "Lolita" ;
@@ -10773,7 +10876,8 @@
 
 <https://birot.github.io/book/0000342> a ns1:Book ;
     rdfs:label "Journey by the Moonlight" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1400237" .
 
 <https://birot.github.io/book/0000343> a ns1:Book ;
     rdfs:label "My Legendary Girlfriend" ;
@@ -10782,11 +10886,13 @@
 
 <https://birot.github.io/book/0000344> a ns1:Book ;
     rdfs:label "Siegfried" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q2143946" .
 
 <https://birot.github.io/book/0000345> a ns1:Book ;
     rdfs:label "Das siebte Kreuz" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q336786" .
 
 <https://birot.github.io/book/0000346> a ns1:Book ;
     rdfs:label "Niels Bohr" ;
@@ -10794,15 +10900,18 @@
 
 <https://birot.github.io/book/0000347> a ns1:Book ;
     rdfs:label "City of God" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q4730195" .
 
 <https://birot.github.io/book/0000348> a ns1:Book ;
     rdfs:label "Kopenhagen" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1561910" .
 
 <https://birot.github.io/book/0000349> a ns1:Book ;
     rdfs:label "Elementarteilchen" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q700483" .
 
 <https://birot.github.io/book/0000350> a ns1:Book ;
     rdfs:label "Tanz mit dem Engel" ;
@@ -10814,7 +10923,8 @@
 
 <https://birot.github.io/book/0000352> a ns1:Book ;
     rdfs:label "An Instance of the Fingerpost" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q3220953" .
 
 <https://birot.github.io/book/0000353> a ns1:Book ;
     rdfs:label "Abstieg zum Erfolg" ;
@@ -10822,19 +10932,23 @@
 
 <https://birot.github.io/book/0000354> a ns1:Book ;
     rdfs:label "Disappearing Acts" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q5554681" .
 
 <https://birot.github.io/book/0000355> a ns1:Book ;
     rdfs:label "To Kill a Mockingbird" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q212340" .
 
 <https://birot.github.io/book/0000356> a ns1:Book ;
     rdfs:label "Der Besuch des Leibarztes" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1192495" .
 
 <https://birot.github.io/book/0000357> a ns1:Book ;
     rdfs:label "Wem die Stunde schlägt" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q200920" .
 
 <https://birot.github.io/book/0000358> a ns1:Book ;
     rdfs:label "The Colour of Magic" ;
@@ -10867,8 +10981,7 @@
 
 <https://birot.github.io/book/0000365> a ns1:Book ;
     rdfs:label "Russendisko" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q28361922" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000366> a ns1:Book ;
     rdfs:label "Es gibt keine schlechten Menschen" ;
@@ -10892,7 +11005,8 @@
 
 <https://birot.github.io/book/0000371> a ns1:Book ;
     rdfs:label "Die Abenteuer des braven Soldaten Schwejk" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q208622" .
 
 <https://birot.github.io/book/0000372> a ns1:Book ;
     rdfs:label "Kinkerlitzchen" ;
@@ -10900,7 +11014,8 @@
 
 <https://birot.github.io/book/0000373> a ns1:Book ;
     rdfs:label "What I Loved" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q3927652" .
 
 <https://birot.github.io/book/0000374> a ns1:Book ;
     rdfs:label "Die Fakultät" ;
@@ -10936,7 +11051,8 @@
 
 <https://birot.github.io/book/0000383> a ns1:Book ;
     rdfs:label "Traumpfade" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q2450388" .
 
 <https://birot.github.io/book/0000384> a ns1:Book ;
     rdfs:label "Die Nägel" ;
@@ -10944,7 +11060,8 @@
 
 <https://birot.github.io/book/0000385> a ns1:Book ;
     rdfs:label "Carl Haffners Liebe zum Unentschieden" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q5040278" .
 
 <https://birot.github.io/book/0000386> a ns1:Book ;
     rdfs:label "Die unsichtbare Frau" ;
@@ -10965,7 +11082,8 @@
 
 <https://birot.github.io/book/0000390> a ns1:Book ;
     rdfs:label "Veronika beschließt zu sterben" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1139322" .
 
 <https://birot.github.io/book/0000392> a ns1:Book ;
     rdfs:label "Die Vertreibung aus der Hölle" ;
@@ -10986,7 +11104,8 @@
 
 <https://birot.github.io/book/0000396> a ns1:Book ;
     rdfs:label "Die rote Antilope" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q823830" .
 
 <https://birot.github.io/book/0000397> a ns1:Book ;
     rdfs:label "For Matrimonial Purposes" ;
@@ -11031,7 +11150,8 @@
 
 <https://birot.github.io/book/0000407> a ns1:Book ;
     rdfs:label "Schöne neue Welt" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q191949" .
 
 <https://birot.github.io/book/0000408> a ns1:Book ;
     rdfs:label "Regen-Raga" ;
@@ -11047,16 +11167,18 @@
 
 <https://birot.github.io/book/0000411> a ns1:Book ;
     rdfs:label "High Fidelity" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q748075" .
 
 <https://birot.github.io/book/0000412> a ns1:Book ;
     rdfs:label "The Marriage of Sticks" ;
     ns1:hasLanguage <https://birot.github.io/language/0000001> ;
-    ns1:hasWikidataId "Q16919438" .
+    ns1:hasWikidataId "Q4920547" .
 
 <https://birot.github.io/book/0000413> a ns1:Book ;
     rdfs:label "Arm und reich" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q279022" .
 
 <https://birot.github.io/book/0000414> a ns1:Book ;
     rdfs:label "Der große Unterschied" ;
@@ -11068,7 +11190,8 @@
 
 <https://birot.github.io/book/0000416> a ns1:Book ;
     rdfs:label "Mister Aufziehvogel" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q976992" .
 
 <https://birot.github.io/book/0000417> a ns1:Book ;
     rdfs:label "Der Eispalast" ;
@@ -11076,8 +11199,7 @@
 
 <https://birot.github.io/book/0000418> a ns1:Book ;
     rdfs:label "Liebesleben" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q16130921" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000419> a ns1:Book ;
     rdfs:label "Die magischen Kanäle" ;
@@ -11085,7 +11207,8 @@
 
 <https://birot.github.io/book/0000420> a ns1:Book ;
     rdfs:label "Neuromancer" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q662029" .
 
 <https://birot.github.io/book/0000421> a ns1:Book ;
     rdfs:label "Mali Blues" ;
@@ -11098,7 +11221,8 @@
 
 <https://birot.github.io/book/0000423> a ns1:Book ;
     rdfs:label "Das Image" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q39086365" .
 
 <https://birot.github.io/book/0000424> a ns1:Book ;
     rdfs:label "Heart of Darkness" ;
@@ -11123,7 +11247,8 @@
 
 <https://birot.github.io/book/0000429> a ns1:Book ;
     rdfs:label "Schneeweiß und Russenrot" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q7583678" .
 
 <https://birot.github.io/book/0000430> a ns1:Book ;
     rdfs:label "Die Reise nach Galizien" ;
@@ -11135,15 +11260,18 @@
 
 <https://birot.github.io/book/0000432> a ns1:Book ;
     rdfs:label "Wer hat Angst vor Virginia Woolf?" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q856274" .
 
 <https://birot.github.io/book/0000433> a ns1:Book ;
     rdfs:label "Are you Experienced?" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q39070918" .
 
 <https://birot.github.io/book/0000434> a ns1:Book ;
     rdfs:label "Radetzkymarsch" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q610428" .
 
 <https://birot.github.io/book/0000435> a ns1:Book ;
     rdfs:label "Der Mann, der seine Frau mit einem Hut verwechselte" ;
@@ -11159,7 +11287,8 @@
 
 <https://birot.github.io/book/0000438> a ns1:Book ;
     rdfs:label "Power and Tower" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q4645527" .
 
 <https://birot.github.io/book/0000439> a ns1:Book ;
     rdfs:label "Nichts als Gespenster" ;
@@ -11188,7 +11317,8 @@
 
 <https://birot.github.io/book/0000445> a ns1:Book ;
     rdfs:label "Unser Mann in Havanna" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q2298778" .
 
 <https://birot.github.io/book/0000446> a ns1:Book ;
     rdfs:label "Helden des Alltags" ;
@@ -11212,11 +11342,13 @@
 
 <https://birot.github.io/book/0000451> a ns1:Book ;
     rdfs:label "Mystic River" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q647167" .
 
 <https://birot.github.io/book/0000452> a ns1:Book ;
     rdfs:label "The Bone People" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1247962" .
 
 <https://birot.github.io/book/0000453> a ns1:Book ;
     rdfs:label "Der Krieg hat kein weibliches Gesicht" ;
@@ -11229,11 +11361,12 @@
 <https://birot.github.io/book/0000455> a ns1:Book ;
     rdfs:label "Das dreißigste Jahr" ;
     ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q106204239" .
+    ns1:hasWikidataId "Q1171068" .
 
 <https://birot.github.io/book/0000456> a ns1:Book ;
     rdfs:label "Die letzten Tage der Menschheit" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1218953" .
 
 <https://birot.github.io/book/0000457> a ns1:Book ;
     rdfs:label "Traumnovelle" ;
@@ -11246,7 +11379,8 @@
 
 <https://birot.github.io/book/0000459> a ns1:Book ;
     rdfs:label "Sputnik Sweetheart" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q930228" .
 
 <https://birot.github.io/book/0000460> a ns1:Book ;
     rdfs:label "Im Land der Federn" ;
@@ -11263,7 +11397,8 @@
 
 <https://birot.github.io/book/0000463> a ns1:Book ;
     rdfs:label "Schiffbruch mit Tiger" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q374204" .
 
 <https://birot.github.io/book/0000464> a ns1:Book ;
     rdfs:label "Eine Schachtel Streichhölzer" ;
@@ -11275,11 +11410,13 @@
 
 <https://birot.github.io/book/0000466> a ns1:Book ;
     rdfs:label "The English Patient" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1292533" .
 
 <https://birot.github.io/book/0000467> a ns1:Book ;
     rdfs:label "Die Pendragon-Legende" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q460519" .
 
 <https://birot.github.io/book/0000468> a ns1:Book ;
     rdfs:label "Der Luxus des Exils" ;
@@ -11308,7 +11445,8 @@
 
 <https://birot.github.io/book/0000474> a ns1:Book ;
     rdfs:label "Quo vadis?" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q335315" .
 
 <https://birot.github.io/book/0000475> a ns1:Book ;
     rdfs:label "Kupferglanz" ;
@@ -11316,12 +11454,13 @@
 
 <https://birot.github.io/book/0000476> a ns1:Book ;
     rdfs:label "Mit Staunen und Zittern" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1638148" .
 
 <https://birot.github.io/book/0000477> a ns1:Book ;
     rdfs:label "The Great Railway Bazaar" ;
     ns1:hasLanguage <https://birot.github.io/language/0000001> ;
-    ns1:hasWikidataId "Q7737904" .
+    ns1:hasWikidataId "Q7754892" .
 
 <https://birot.github.io/book/0000478> a ns1:Book ;
     rdfs:label "Das Jahr des Hasen" ;
@@ -11353,7 +11492,8 @@
 
 <https://birot.github.io/book/0000485> a ns1:Book ;
     rdfs:label "His 'n 'hers" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q7856042" .
 
 <https://birot.github.io/book/0000486> a ns1:Book ;
     rdfs:label "Die Todespirale" ;
@@ -11361,11 +11501,13 @@
 
 <https://birot.github.io/book/0000487> a ns1:Book ;
     rdfs:label "The DaVinci Code" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q211006" .
 
 <https://birot.github.io/book/0000488> a ns1:Book ;
     rdfs:label "The 5 People You Meet in Heaven" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q2481893" .
 
 <https://birot.github.io/book/0000489> a ns1:Book ;
     rdfs:label "Die Wahrheit über den DaVinci Code" ;
@@ -11373,11 +11515,13 @@
 
 <https://birot.github.io/book/0000490> a ns1:Book ;
     rdfs:label "Blink" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q3629976" .
 
 <https://birot.github.io/book/0000491> a ns1:Book ;
     rdfs:label "The Corrections" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q335645" .
 
 <https://birot.github.io/book/0000493> a ns1:Book ;
     rdfs:label "Die Kathedrale des Erinnerns" ;
@@ -11385,11 +11529,13 @@
 
 <https://birot.github.io/book/0000494> a ns1:Book ;
     rdfs:label "Oceano Mare" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q3349045" .
 
 <https://birot.github.io/book/0000495> a ns1:Book ;
     rdfs:label "The Tipping Point" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q336342" .
 
 <https://birot.github.io/book/0000496> a ns1:Book ;
     rdfs:label "Hiroshima" ;
@@ -11401,7 +11547,8 @@
 
 <https://birot.github.io/book/0000498> a ns1:Book ;
     rdfs:label "Middlesex" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1609780" .
 
 <https://birot.github.io/book/0000499> a ns1:Book ;
     rdfs:label "Mao" ;
@@ -11418,7 +11565,8 @@
 
 <https://birot.github.io/book/0000502> a ns1:Book ;
     rdfs:label "Changing Planes" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q3684176" .
 
 <https://birot.github.io/book/0000503> a ns1:Book ;
     rdfs:label "Der Graf von Monte Christo" ;
@@ -11440,15 +11588,18 @@
 
 <https://birot.github.io/book/0000507> a ns1:Book ;
     rdfs:label "How to be good" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q2267374" .
 
 <https://birot.github.io/book/0000508> a ns1:Book ;
     rdfs:label "Darkness at Noon" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q73580" .
 
 <https://birot.github.io/book/0000509> a ns1:Book ;
     rdfs:label "Die Wolfsfrau" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q9171157" .
 
 <https://birot.github.io/book/0000510> a ns1:Book ;
     rdfs:label "Der stumme Wächter" ;
@@ -11456,11 +11607,13 @@
 
 <https://birot.github.io/book/0000511> a ns1:Book ;
     rdfs:label "Die falsche Fährte" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q658744" .
 
 <https://birot.github.io/book/0000512> a ns1:Book ;
     rdfs:label "Tuesdays with Morris" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1154340" .
 
 <https://birot.github.io/book/0000513> a ns1:Book ;
     rdfs:label "The Confessions of Max Tivoli" ;
@@ -11479,11 +11632,12 @@
 <https://birot.github.io/book/0000517> a ns1:Book ;
     rdfs:label "Meine Universitäten" ;
     ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q61071240" .
+    ns1:hasWikidataId "Q4126962" .
 
 <https://birot.github.io/book/0000518> a ns1:Book ;
     rdfs:label "The Family Way" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q17155545" .
 
 <https://birot.github.io/book/0000519> a ns1:Book ;
     rdfs:label "Auszeichnungen eines Jägers" ;
@@ -11495,11 +11649,13 @@
 
 <https://birot.github.io/book/0000521> a ns1:Book ;
     rdfs:label "Equal Rite" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q853442" .
 
 <https://birot.github.io/book/0000522> a ns1:Book ;
     rdfs:label "Die Rückkehr des Tanzlehrers" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1632844" .
 
 <https://birot.github.io/book/0000523> a ns1:Book ;
     rdfs:label "Die letzte Frist" ;
@@ -11515,7 +11671,8 @@
 
 <https://birot.github.io/book/0000526> a ns1:Book ;
     rdfs:label "Krieg der Welten" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q213019" .
 
 <https://birot.github.io/book/0000527> a ns1:Book ;
     rdfs:label "Genial dagegen" ;
@@ -11543,7 +11700,8 @@
 
 <https://birot.github.io/book/0000533> a ns1:Book ;
     rdfs:label "Everything is Illuminated" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q923551" .
 
 <https://birot.github.io/book/0000534> a ns1:Book ;
     rdfs:label "The Other Side of the Story" ;
@@ -11551,7 +11709,8 @@
 
 <https://birot.github.io/book/0000535> a ns1:Book ;
     rdfs:label "Чемодан" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000002> .
+    ns1:hasLanguage <https://birot.github.io/language/0000002> ;
+    ns1:hasWikidataId "Q16716555" .
 
 <https://birot.github.io/book/0000536> a ns1:Book ;
     rdfs:label "Закон обратного волщебства" ;
@@ -11576,7 +11735,8 @@
 
 <https://birot.github.io/book/0000541> a ns1:Book ;
     rdfs:label "Ich und Kaminski" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1656310" .
 
 <https://birot.github.io/book/0000542> a ns1:Book ;
     rdfs:label "Филиал" ;
@@ -11614,15 +11774,18 @@
 
 <https://birot.github.io/book/0000550> a ns1:Book ;
     rdfs:label "The Jane Austen Book Club" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q4224713" .
 
 <https://birot.github.io/book/0000551> a ns1:Book ;
     rdfs:label "Making History" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1517608" .
 
 <https://birot.github.io/book/0000552> a ns1:Book ;
     rdfs:label "The Star's Tennis Balls" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1197157" .
 
 <https://birot.github.io/book/0000553> a ns1:Book ;
     rdfs:label "Liebe dein Symptom wie dich selbst!" ;
@@ -11630,7 +11793,8 @@
 
 <https://birot.github.io/book/0000554> a ns1:Book ;
     rdfs:label "Harry Potter and the Order of the Phoenix" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q80817" .
 
 <https://birot.github.io/book/0000555> a ns1:Book ;
     rdfs:label "Gebrauchsanweisung für Köln" ;
@@ -11638,7 +11802,8 @@
 
 <https://birot.github.io/book/0000556> a ns1:Book ;
     rdfs:label "Der kurze Brief zum langen Abschied" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1199307" .
 
 <https://birot.github.io/book/0000557> a ns1:Book ;
     rdfs:label "Eine kurze Geschichte der Sprachen" ;
@@ -11650,11 +11815,13 @@
 
 <https://birot.github.io/book/0000559> a ns1:Book ;
     rdfs:label "Die Schopenhauer-Kur" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q9556832" .
 
 <https://birot.github.io/book/0000560> a ns1:Book ;
     rdfs:label "Wächter der Nacht" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1042011" .
 
 <https://birot.github.io/book/0000561> a ns1:Book ;
     rdfs:label "Fassbinder über Fassbinder" ;
@@ -11679,7 +11846,8 @@
 
 <https://birot.github.io/book/0000567> a ns1:Book ;
     rdfs:label "The Dispossessed" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q467720" .
 
 <https://birot.github.io/book/0000568> a ns1:Book ;
     rdfs:label "Die Ethno-Falle" ;
@@ -11708,11 +11876,13 @@
 
 <https://birot.github.io/book/0000574> a ns1:Book ;
     rdfs:label "A Plot Against America" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1758811" .
 
 <https://birot.github.io/book/0000575> a ns1:Book ;
     rdfs:label "On Beauty" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1994900" .
 
 <https://birot.github.io/book/0000576> a ns1:Book ;
     rdfs:label "Schöne Freunde" ;
@@ -11720,11 +11890,13 @@
 
 <https://birot.github.io/book/0000577> a ns1:Book ;
     rdfs:label "Wächter des Tages" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1042011" .
 
 <https://birot.github.io/book/0000578> a ns1:Book ;
     rdfs:label "Kafka am Strand" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q579744" .
 
 <https://birot.github.io/book/0000579> a ns1:Book ;
     rdfs:label "Gulliver's Travels" ;
@@ -11733,11 +11905,13 @@
 
 <https://birot.github.io/book/0000580> a ns1:Book ;
     rdfs:label "A Million Little Pieces" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q2295145" .
 
 <https://birot.github.io/book/0000581> a ns1:Book ;
     rdfs:label "Jonathan Strange & Mr. Norrell" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1474920" .
 
 <https://birot.github.io/book/0000582> a ns1:Book ;
     rdfs:label "Küche totalitär" ;
@@ -11749,11 +11923,13 @@
 
 <https://birot.github.io/book/0000584> a ns1:Book ;
     rdfs:label "Ausweitung der Kampfzone" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q784197" .
 
 <https://birot.github.io/book/0000585> a ns1:Book ;
     rdfs:label "Interface Culture" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q5417971" .
 
 <https://birot.github.io/book/0000586> a ns1:Book ;
     rdfs:label "Ufer der Verlorenen" ;
@@ -11770,7 +11946,8 @@
 
 <https://birot.github.io/book/0000589> a ns1:Book ;
     rdfs:label "Am Hang" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q451316" .
 
 <https://birot.github.io/book/0000590> a ns1:Book ;
     rdfs:label "Die Filme meines Lebens" ;
@@ -11778,7 +11955,8 @@
 
 <https://birot.github.io/book/0000591> a ns1:Book ;
     rdfs:label "Die Vermessung der Welt" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q630282" .
 
 <https://birot.github.io/book/0000592> a ns1:Book ;
     rdfs:label "Ex Libris" ;
@@ -11791,7 +11969,8 @@
 
 <https://birot.github.io/book/0000594> a ns1:Book ;
     rdfs:label "Das schwarze Buch" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q463060" .
 
 <https://birot.github.io/book/0000595> a ns1:Book ;
     rdfs:label "The Autograph Man" ;
@@ -11837,7 +12016,8 @@
 
 <https://birot.github.io/book/0000605> a ns1:Book ;
     rdfs:label "Der Mythos von Sisyphos" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1125903" .
 
 <https://birot.github.io/book/0000606> a ns1:Book ;
     rdfs:label "Jeder Mensch ist ein Kunstwerk" ;
@@ -11875,8 +12055,7 @@
 
 <https://birot.github.io/book/0000615> a ns1:Book ;
     rdfs:label "Bildung. Alles, was man wissen muss" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q263646" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000616> a ns1:Book ;
     rdfs:label "Ich traue meiner Wahrnehmung" ;
@@ -11889,20 +12068,22 @@
 
 <https://birot.github.io/book/0000618> a ns1:Book ;
     rdfs:label "Kollaps" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1069122" .
 
 <https://birot.github.io/book/0000619> a ns1:Book ;
     rdfs:label "Gefährliche Liebschaften" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q862050" .
 
 <https://birot.github.io/book/0000620> a ns1:Book ;
     rdfs:label "Das Wetter von 15 Jahren" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1170776" .
 
 <https://birot.github.io/book/0000621> a ns1:Book ;
     rdfs:label "Guten Morgen, du Schöne" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q23853425" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000623> a ns1:Book ;
     rdfs:label "Theorie der Unbildung" ;
@@ -11948,15 +12129,18 @@
 
 <https://birot.github.io/book/0000633> a ns1:Book ;
     rdfs:label "Quasi dasselbe mit anderen Worten" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q791487" .
 
 <https://birot.github.io/book/0000634> a ns1:Book ;
     rdfs:label "Gut gegen Nordwind" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q674523" .
 
 <https://birot.github.io/book/0000635> a ns1:Book ;
     rdfs:label "Shantaram" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q2373810" .
 
 <https://birot.github.io/book/0000636> a ns1:Book ;
     rdfs:label "Marion Dönhoff" ;
@@ -11976,12 +12160,12 @@
 
 <https://birot.github.io/book/0000641> a ns1:Book ;
     rdfs:label "Was mache ich hier" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q3666899" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000642> a ns1:Book ;
     rdfs:label "The Two Cultures" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q232061" .
 
 <https://birot.github.io/book/0000643> a ns1:Book ;
     rdfs:label "Die Klavierspielerin" ;
@@ -11994,19 +12178,23 @@
 
 <https://birot.github.io/book/0000645> a ns1:Book ;
     rdfs:label "Die Verzückung der Lol V. Stein" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q2717178" .
 
 <https://birot.github.io/book/0000646> a ns1:Book ;
     rdfs:label "Die 40 Tage des Musa Dagh" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q699107" .
 
 <https://birot.github.io/book/0000647> a ns1:Book ;
     rdfs:label "Slaughterhouse 5" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q265954" .
 
 <https://birot.github.io/book/0000648> a ns1:Book ;
     rdfs:label "Outside the Dogs Museum" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q16909156" .
 
 <https://birot.github.io/book/0000649> a ns1:Book ;
     rdfs:label "Das Unbehagen der Geschlechter" ;
@@ -12019,7 +12207,8 @@
 
 <https://birot.github.io/book/0000651> a ns1:Book ;
     rdfs:label "Über Fotografie" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q17008873" .
 
 <https://birot.github.io/book/0000652> a ns1:Book ;
     rdfs:label "Die Illusionen der Postmoderne" ;
@@ -12031,23 +12220,28 @@
 
 <https://birot.github.io/book/0000654> a ns1:Book ;
     rdfs:label "Wahrheit und Pflicht" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q480743" .
 
 <https://birot.github.io/book/0000655> a ns1:Book ;
     rdfs:label "Welcome to the Monkeyhouse" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q2292992" .
 
 <https://birot.github.io/book/0000657> a ns1:Book ;
     rdfs:label "Das Foucaultsche Pendel" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q437791" .
 
 <https://birot.github.io/book/0000658> a ns1:Book ;
     rdfs:label "Der Weltensammler" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1198017" .
 
 <https://birot.github.io/book/0000659> a ns1:Book ;
     rdfs:label "Symposion" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q486727" .
 
 <https://birot.github.io/book/0000660> a ns1:Book ;
     rdfs:label "Im Schatten des Palazzo Farnese" ;
@@ -12059,11 +12253,13 @@
 
 <https://birot.github.io/book/0000662> a ns1:Book ;
     rdfs:label "Eat Pray Love" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q2661615" .
 
 <https://birot.github.io/book/0000663> a ns1:Book ;
     rdfs:label "Nachts unter der steinernen Brücke" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q928531" .
 
 <https://birot.github.io/book/0000664> a ns1:Book ;
     rdfs:label "Foundation" ;
@@ -12081,8 +12277,7 @@
 
 <https://birot.github.io/book/0000667> a ns1:Book ;
     rdfs:label "Treffen sich zwei" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q28053242" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000668> a ns1:Book ;
     rdfs:label "Second Foundation" ;
@@ -12095,23 +12290,28 @@
 
 <https://birot.github.io/book/0000670> a ns1:Book ;
     rdfs:label "The Sorrow of an American" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q737850" .
 
 <https://birot.github.io/book/0000671> a ns1:Book ;
     rdfs:label "The Europeans" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q5412143" .
 
 <https://birot.github.io/book/0000672> a ns1:Book ;
     rdfs:label "Foundation's Edge" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q932592" .
 
 <https://birot.github.io/book/0000673> a ns1:Book ;
     rdfs:label "The Rain before it falls" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q3211754" .
 
 <https://birot.github.io/book/0000674> a ns1:Book ;
     rdfs:label "Into the Wild" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1235125" .
 
 <https://birot.github.io/book/0000675> a ns1:Book ;
     rdfs:label "The Power and the Glory" ;
@@ -12125,7 +12325,8 @@
 
 <https://birot.github.io/book/0000677> a ns1:Book ;
     rdfs:label "Tender is the Night" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q247372" .
 
 <https://birot.github.io/book/0000678> a ns1:Book ;
     rdfs:label "Getting Rid of Matthew" ;
@@ -12141,7 +12342,8 @@
 
 <https://birot.github.io/book/0000681> a ns1:Book ;
     rdfs:label "Foundation and Earth" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1050014" .
 
 <https://birot.github.io/book/0000682> a ns1:Book ;
     rdfs:label "Far From the Madding Crowd" ;
@@ -12150,11 +12352,13 @@
 
 <https://birot.github.io/book/0000683> a ns1:Book ;
     rdfs:label "Eichmann in Jerusalem" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q480743" .
 
 <https://birot.github.io/book/0000684> a ns1:Book ;
     rdfs:label "Der Wahnsinn der Normalität" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q7742134" .
 
 <https://birot.github.io/book/0000685> a ns1:Book ;
     rdfs:label "Critical editions of film" ;
@@ -12162,7 +12366,8 @@
 
 <https://birot.github.io/book/0000686> a ns1:Book ;
     rdfs:label "Die einsamen Frauen" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q2311188" .
 
 <https://birot.github.io/book/0000687> a ns1:Book ;
     rdfs:label "Medienkultur" ;
@@ -12199,16 +12404,18 @@
 
 <https://birot.github.io/book/0000695> a ns1:Book ;
     rdfs:label "The Edible Woman" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q7731579" .
 
 <https://birot.github.io/book/0000696> a ns1:Book ;
     rdfs:label "The House of Sleep" ;
     ns1:hasLanguage <https://birot.github.io/language/0000001> ;
-    ns1:hasWikidataId "Q100698529" .
+    ns1:hasWikidataId "Q3821376" .
 
 <https://birot.github.io/book/0000697> a ns1:Book ;
     rdfs:label "The Drowned and the Saved" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q3791315" .
 
 <https://birot.github.io/book/0000698> a ns1:Book ;
     rdfs:label "Gomorrah" ;
@@ -12217,7 +12424,8 @@
 
 <https://birot.github.io/book/0000699> a ns1:Book ;
     rdfs:label "Remember me?" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q3991065" .
 
 <https://birot.github.io/book/0000700> a ns1:Book ;
     rdfs:label "Uncharted Territory: Essays on Early Nonfiction Film" ;
@@ -12229,7 +12437,8 @@
 
 <https://birot.github.io/book/0000702> a ns1:Book ;
     rdfs:label "Wurthering Heights" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q202975" .
 
 <https://birot.github.io/book/0000703> a ns1:Book ;
     rdfs:label "Graubart Boulevard" ;
@@ -12241,11 +12450,13 @@
 
 <https://birot.github.io/book/0000705> a ns1:Book ;
     rdfs:label "Alle sieben Wellen" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q3212810" .
 
 <https://birot.github.io/book/0000706> a ns1:Book ;
     rdfs:label "The Woman in White" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1212672" .
 
 <https://birot.github.io/book/0000707> a ns1:Book ;
     rdfs:label "Evolution of Style in the Early Work of Dziga Vertov" ;
@@ -12257,11 +12468,13 @@
 
 <https://birot.github.io/book/0000709> a ns1:Book ;
     rdfs:label "Das Echo der Erinnerung" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1167621" .
 
 <https://birot.github.io/book/0000710> a ns1:Book ;
     rdfs:label "Das Aleph" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q952043" .
 
 <https://birot.github.io/book/0000711> a ns1:Book ;
     rdfs:label "Keepers of the Frame" ;
@@ -12269,7 +12482,8 @@
 
 <https://birot.github.io/book/0000712> a ns1:Book ;
     rdfs:label "Krieg und Frieden" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q161531" .
 
 <https://birot.github.io/book/0000713> a ns1:Book ;
     rdfs:label "Breaking the Glass-Armour" ;
@@ -12318,7 +12532,8 @@
 
 <https://birot.github.io/book/0000724> a ns1:Book ;
     rdfs:label "Der Glöckner von Notre Dame" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q191380" .
 
 <https://birot.github.io/book/0000725> a ns1:Book ;
     rdfs:label "Harry Potter and the Deathly Hallows" ;
@@ -12355,7 +12570,8 @@
 
 <https://birot.github.io/book/0000733> a ns1:Book ;
     rdfs:label "Timequake" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q2627355" .
 
 <https://birot.github.io/book/0000734> a ns1:Book ;
     rdfs:label "Life to Those Shadows" ;
@@ -12372,7 +12588,8 @@
 
 <https://birot.github.io/book/0000737> a ns1:Book ;
     rdfs:label "Led Zeppelin: When Giants Walked the Earth" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q7992483" .
 
 <https://birot.github.io/book/0000738> a ns1:Book ;
     rdfs:label "The Silent Cinema Reader" ;
@@ -12380,7 +12597,8 @@
 
 <https://birot.github.io/book/0000739> a ns1:Book ;
     rdfs:label "Jude the Oscure" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1248773" .
 
 <https://birot.github.io/book/0000740> a ns1:Book ;
     rdfs:label "Russian Popular Culture" ;
@@ -12388,8 +12606,7 @@
 
 <https://birot.github.io/book/0000741> a ns1:Book ;
     rdfs:label "Love Letters" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
-    ns1:hasWikidataId "Q16949350" .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> .
 
 <https://birot.github.io/book/0000742> a ns1:Book ;
     rdfs:label "Frankenstein" ;
@@ -12415,7 +12632,8 @@
 
 <https://birot.github.io/book/0000747> a ns1:Book ;
     rdfs:label "The Scarlet Letter" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q907568" .
 
 <https://birot.github.io/book/0000748> a ns1:Book ;
     rdfs:label "Mining the Home Movies" ;
@@ -12439,11 +12657,13 @@
 
 <https://birot.github.io/book/0000753> a ns1:Book ;
     rdfs:label "Never let me go" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q951587" .
 
 <https://birot.github.io/book/0000754> a ns1:Book ;
     rdfs:label "Der Unbesiegbar" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1197675" .
 
 <https://birot.github.io/book/0000755> a ns1:Book ;
     rdfs:label "Das Haus an der Moskva" ;
@@ -12455,11 +12675,13 @@
 
 <https://birot.github.io/book/0000757> a ns1:Book ;
     rdfs:label "Brideshead Rivisited" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q6992413" .
 
 <https://birot.github.io/book/0000758> a ns1:Book ;
     rdfs:label "Selected Stories" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q4659205" .
 
 <https://birot.github.io/book/0000759> a ns1:Book ;
     rdfs:label "Roter Zwerg" ;
@@ -12496,7 +12718,8 @@
 
 <https://birot.github.io/book/0000767> a ns1:Book ;
     rdfs:label "Mängelexemplar" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1957289" .
 
 <https://birot.github.io/book/0000768> a ns1:Book ;
     rdfs:label "Böse Geister" ;
@@ -12512,7 +12735,8 @@
 
 <https://birot.github.io/book/0000771> a ns1:Book ;
     rdfs:label "Forward the Foundation" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q938629" .
 
 <https://birot.github.io/book/0000772> a ns1:Book ;
     rdfs:label "Geschichte des russischen und sowjetischen Films" ;
@@ -12520,12 +12744,12 @@
 
 <https://birot.github.io/book/0000773> a ns1:Book ;
     rdfs:label "Der rote Stern" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q3889312" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000774> a ns1:Book ;
     rdfs:label "North and South" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1853142" .
 
 <https://birot.github.io/book/0000775> a ns1:Book ;
     rdfs:label "The Forever War" ;
@@ -12542,12 +12766,12 @@
 
 <https://birot.github.io/book/0000779> a ns1:Book ;
     rdfs:label "Der Meister des Jüngsten Tages" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q1195762" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000780> a ns1:Book ;
     rdfs:label "Something Borrowed" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q4179366" .
 
 <https://birot.github.io/book/0000781> a ns1:Book ;
     rdfs:label "A History of Russian Cinema" ;
@@ -12555,11 +12779,13 @@
 
 <https://birot.github.io/book/0000782> a ns1:Book ;
     rdfs:label "Diary of a Bad Year" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q256635" .
 
 <https://birot.github.io/book/0000783> a ns1:Book ;
     rdfs:label "The Complete Cosmicomics" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1219705" .
 
 <https://birot.github.io/book/0000784> a ns1:Book ;
     rdfs:label "The History of Love" ;
@@ -12586,7 +12812,7 @@
 <https://birot.github.io/book/0000789> a ns1:Book ;
     rdfs:label "Freelander" ;
     ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q56062583" .
+    ns1:hasWikidataId "Q55365845" .
 
 <https://birot.github.io/book/0000790> a ns1:Book ;
     rdfs:label "Manfacturing Truth" ;
@@ -12612,12 +12838,12 @@
 
 <https://birot.github.io/book/0000795> a ns1:Book ;
     rdfs:label "Die Box" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q7719566" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000796> a ns1:Book ;
     rdfs:label "Ubik" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q617357" .
 
 <https://birot.github.io/book/0000797> a ns1:Book ;
     rdfs:label "Sergej Eisenstein. Eine Biographie" ;
@@ -12651,7 +12877,8 @@
 
 <https://birot.github.io/book/0000804> a ns1:Book ;
     rdfs:label "Middlemarch" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q313129" .
 
 <https://birot.github.io/book/0000805> a ns1:Book ;
     rdfs:label "Kommunismus als Religion" ;
@@ -12659,11 +12886,13 @@
 
 <https://birot.github.io/book/0000806> a ns1:Book ;
     rdfs:label "Luftkrieg und Literatur" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q7091432" .
 
 <https://birot.github.io/book/0000807> a ns1:Book ;
     rdfs:label "The Book of Illusion" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q581485" .
 
 <https://birot.github.io/book/0000808> a ns1:Book ;
     rdfs:label "Ein Leben zwischen den Sprachen" ;
@@ -12671,12 +12900,12 @@
 
 <https://birot.github.io/book/0000809> a ns1:Book ;
     rdfs:label "Der schwedische Reiter" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q1199593" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000810> a ns1:Book ;
     rdfs:label "Ein Tag im Jahr" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1305245" .
 
 <https://birot.github.io/book/0000811> a ns1:Book ;
     rdfs:label "Soviet Cinema" ;
@@ -12684,7 +12913,8 @@
 
 <https://birot.github.io/book/0000812> a ns1:Book ;
     rdfs:label "Das Erdbeben in Chili und andere Erzählungen" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1167748" .
 
 <https://birot.github.io/book/0000813> a ns1:Book ;
     rdfs:label "Zurück aus Sowjetrussland.  Retuschen zu meinem Russlandbuch" ;
@@ -12709,7 +12939,8 @@
 
 <https://birot.github.io/book/0000818> a ns1:Book ;
     rdfs:label "The Marriage Plot" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q3824677" .
 
 <https://birot.github.io/book/0000819> a ns1:Book ;
     rdfs:label "The House of Mirth" ;
@@ -12730,7 +12961,8 @@
 
 <https://birot.github.io/book/0000823> a ns1:Book ;
     rdfs:label "Die Kapuzinergruft" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q872215" .
 
 <https://birot.github.io/book/0000824> a ns1:Book ;
     rdfs:label "Nachdenken über Christa T." ;
@@ -12739,7 +12971,8 @@
 
 <https://birot.github.io/book/0000825> a ns1:Book ;
     rdfs:label "The Way of all Flesh" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q255074" .
 
 <https://birot.github.io/book/0000827> a ns1:Book ;
     rdfs:label "Das Leben der Bilder" ;
@@ -12751,7 +12984,8 @@
 
 <https://birot.github.io/book/0000830> a ns1:Book ;
     rdfs:label "Frau Jenny Treibel" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q351933" .
 
 <https://birot.github.io/book/0000831> a ns1:Book ;
     rdfs:label "The Gatecrasher" ;
@@ -12759,11 +12993,13 @@
 
 <https://birot.github.io/book/0000832> a ns1:Book ;
     rdfs:label "Jane Eyre" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q182961" .
 
 <https://birot.github.io/book/0000833> a ns1:Book ;
     rdfs:label "Nothanger Abbey" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q477508" .
 
 <https://birot.github.io/book/0000835> a ns1:Book ;
     rdfs:label "Weltmarkt der Bilder" ;
@@ -12771,11 +13007,13 @@
 
 <https://birot.github.io/book/0000836> a ns1:Book ;
     rdfs:label "Daisy Miller & The Future of the Screw" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q3867271" .
 
 <https://birot.github.io/book/0000837> a ns1:Book ;
     rdfs:label "Where Angels Fear to Thread" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q7993159" .
 
 <https://birot.github.io/book/0000838> a ns1:Book ;
     rdfs:label "Der taumelnde Kontinent" ;
@@ -12801,12 +13039,13 @@
 
 <https://birot.github.io/book/0000843> a ns1:Book ;
     rdfs:label "Villette" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q2449570" .
 
 <https://birot.github.io/book/0000844> a ns1:Book ;
     rdfs:label "The 42nd Parallel" ;
     ns1:hasLanguage <https://birot.github.io/language/0000001> ;
-    ns1:hasWikidataId "Q20664267" .
+    ns1:hasWikidataId "Q971694" .
 
 <https://birot.github.io/book/0000845> a ns1:Book ;
     rdfs:label "Die Manon Lescaut von Turdej" ;
@@ -12814,11 +13053,13 @@
 
 <https://birot.github.io/book/0000846> a ns1:Book ;
     rdfs:label "Wives and Daughters" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q2453239" .
 
 <https://birot.github.io/book/0000847> a ns1:Book ;
     rdfs:label "The Island of Doctor Moreau" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q718268" .
 
 <https://birot.github.io/book/0000848> a ns1:Book ;
     rdfs:label "Under the Greenwood Tree" ;
@@ -12835,7 +13076,8 @@
 
 <https://birot.github.io/book/0000851> a ns1:Book ;
     rdfs:label "Alte Meister" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q435977" .
 
 <https://birot.github.io/book/0000852> a ns1:Book ;
     rdfs:label "Mein ist die Rache" ;
@@ -12852,7 +13094,8 @@
 
 <https://birot.github.io/book/0000855> a ns1:Book ;
     rdfs:label "Transit" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1767504" .
 
 <https://birot.github.io/book/0000856> a ns1:Book ;
     rdfs:label "Jud Süß" ;
@@ -12861,7 +13104,8 @@
 
 <https://birot.github.io/book/0000857> a ns1:Book ;
     rdfs:label "Der geteilte Himmel" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q510229" .
 
 <https://birot.github.io/book/0000858> a ns1:Book ;
     rdfs:label "Direct Cinema" ;
@@ -12869,7 +13113,8 @@
 
 <https://birot.github.io/book/0000859> a ns1:Book ;
     rdfs:label "Auferstehung" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q146866" .
 
 <https://birot.github.io/book/0000860> a ns1:Book ;
     rdfs:label "Hinter der Blechwand" ;
@@ -12894,7 +13139,8 @@
 
 <https://birot.github.io/book/0000865> a ns1:Book ;
     rdfs:label "Lady Audley's Secret" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q2738351" .
 
 <https://birot.github.io/book/0000866> a ns1:Book ;
     rdfs:label "Kein Wort mehr über die Liebe" ;
@@ -12906,11 +13152,13 @@
 
 <https://birot.github.io/book/0000868> a ns1:Book ;
     rdfs:label "Menschen, Jahre, Leben (1. Teil)" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q47536002" .
 
 <https://birot.github.io/book/0000869> a ns1:Book ;
     rdfs:label "Menschen, Jahre, Leben (2. Teil)" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q47536002" .
 
 <https://birot.github.io/book/0000870> a ns1:Book ;
     rdfs:label "Werner Herzog" ;
@@ -12922,11 +13170,13 @@
 
 <https://birot.github.io/book/0000872> a ns1:Book ;
     rdfs:label "Störfall" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q2360627" .
 
 <https://birot.github.io/book/0000873> a ns1:Book ;
     rdfs:label "Die Legende vom heiligen Trinker" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q83797" .
 
 <https://birot.github.io/book/0000874> a ns1:Book ;
     rdfs:label "St. Petri Schnee" ;
@@ -12950,7 +13200,8 @@
 
 <https://birot.github.io/book/0000879> a ns1:Book ;
     rdfs:label "Amerigo" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q675609" .
 
 <https://birot.github.io/book/0000880> a ns1:Book ;
     rdfs:label "Was bleibt" ;
@@ -12959,7 +13210,8 @@
 
 <https://birot.github.io/book/0000881> a ns1:Book ;
     rdfs:label "Die häßliche Herzogin" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1710847" .
 
 <https://birot.github.io/book/0000882> a ns1:Book ;
     rdfs:label "Der geschriebene Film" ;
@@ -12967,11 +13219,13 @@
 
 <https://birot.github.io/book/0000883> a ns1:Book ;
     rdfs:label "Der futurologische Kongress" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1198633" .
 
 <https://birot.github.io/book/0000884> a ns1:Book ;
     rdfs:label "Menschen, Jahre, Leben (3. Teil)" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1219643" .
 
 <https://birot.github.io/book/0000885> a ns1:Book ;
     rdfs:label "The Guest List" ;
@@ -12979,7 +13233,8 @@
 
 <https://birot.github.io/book/0000886> a ns1:Book ;
     rdfs:label "The Mill on the Floss" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1215018" .
 
 <https://birot.github.io/book/0000887> a ns1:Book ;
     rdfs:label "Die gelbe Straße" ;
@@ -12987,7 +13242,8 @@
 
 <https://birot.github.io/book/0000888> a ns1:Book ;
     rdfs:label "Das siebte Kreuz" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q336786" .
 
 <https://birot.github.io/book/0000889> a ns1:Book ;
     rdfs:label "Christa Wolf" ;
@@ -12996,23 +13252,27 @@
 <https://birot.github.io/book/0000890> a ns1:Book ;
     rdfs:label "Der Vulkan" ;
     ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q1197864" .
+    ns1:hasWikidataId "Q587945" .
 
 <https://birot.github.io/book/0000891> a ns1:Book ;
     rdfs:label "Wer sich in Gefahr begibt" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1674926" .
 
 <https://birot.github.io/book/0000892> a ns1:Book ;
     rdfs:label "Cranford" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q265100" .
 
 <https://birot.github.io/book/0000893> a ns1:Book ;
     rdfs:label "A Walk in the Park" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q18352227" .
 
 <https://birot.github.io/book/0000894> a ns1:Book ;
     rdfs:label "Red Mars" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q20856830" .
 
 <https://birot.github.io/book/0000895> a ns1:Book ;
     rdfs:label "Leben und Schicksal" ;
@@ -13020,7 +13280,8 @@
 
 <https://birot.github.io/book/0000896> a ns1:Book ;
     rdfs:label "Atemschaukel" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q479895" .
 
 <https://birot.github.io/book/0000897> a ns1:Book ;
     rdfs:label "Kino in Österreich" ;
@@ -13118,8 +13379,7 @@
 
 <https://birot.github.io/book/0000921> a ns1:Book ;
     rdfs:label "Der Fall Glasenapp" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q6104528" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0000922> a ns1:Book ;
     rdfs:label "Die Zeitlupe" ;
@@ -13139,11 +13399,13 @@
 
 <https://birot.github.io/book/0000926> a ns1:Book ;
     rdfs:label "Gut gegen Nordwind" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q674523" .
 
 <https://birot.github.io/book/0000927> a ns1:Book ;
     rdfs:label "Alle sieben Wellen" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q3212810" .
 
 <https://birot.github.io/book/0000928> a ns1:Book ;
     rdfs:label "Ab jetzt ist Ruhe" ;
@@ -13163,11 +13425,13 @@
 
 <https://birot.github.io/book/0000932> a ns1:Book ;
     rdfs:label "Die Architekten" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1195077" .
 
 <https://birot.github.io/book/0000933> a ns1:Book ;
     rdfs:label "Dore Bruder" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q3036950" .
 
 <https://birot.github.io/book/0000934> a ns1:Book ;
     rdfs:label "What a Girl Wants" ;
@@ -13267,7 +13531,8 @@
 
 <https://birot.github.io/book/0000960> a ns1:Book ;
     rdfs:label "Something Borrowed" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q4179366" .
 
 <https://birot.github.io/book/0000961> a ns1:Book ;
     rdfs:label "Afternoon Tea at the Sunflower Cafe" ;
@@ -13275,11 +13540,13 @@
 
 <https://birot.github.io/book/0000962> a ns1:Book ;
     rdfs:label "The Goldfinch" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q15080194" .
 
 <https://birot.github.io/book/0000963> a ns1:Book ;
     rdfs:label "The Secret History" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1218321" .
 
 <https://birot.github.io/book/0000964> a ns1:Book ;
     rdfs:label "The Haunted Screen" ;
@@ -13295,7 +13562,8 @@
 
 <https://birot.github.io/book/0000967> a ns1:Book ;
     rdfs:label "Moskauer Tagebücher" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1305245" .
 
 <https://birot.github.io/book/0000969> a ns1:Book ;
     rdfs:label "Sinnfabrik - Fabrik der Sinne" ;
@@ -13335,7 +13603,8 @@
 
 <https://birot.github.io/book/0000980> a ns1:Book ;
     rdfs:label "Annihilation" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q16961640" .
 
 <https://birot.github.io/book/0000981> a ns1:Book ;
     rdfs:label "Grenzen, Nähe, Respekt" ;
@@ -13351,7 +13620,8 @@
 
 <https://birot.github.io/book/0000984> a ns1:Book ;
     rdfs:label "You and Me, Always" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q28722632" .
 
 <https://birot.github.io/book/0000985> a ns1:Book ;
     rdfs:label "Authority" ;
@@ -13377,7 +13647,8 @@
 
 <https://birot.github.io/book/0000992> a ns1:Book ;
     rdfs:label "Can You Keep a Secret?" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q2490677" .
 
 <https://birot.github.io/book/0000993> a ns1:Book ;
     rdfs:label "How to Find Love" ;
@@ -13394,7 +13665,8 @@
 
 <https://birot.github.io/book/0000996> a ns1:Book ;
     rdfs:label "The City & The City" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q3520291" .
 
 <https://birot.github.io/book/0000997> a ns1:Book ;
     rdfs:label "Kapitulation im Kino" ;
@@ -13402,7 +13674,8 @@
 
 <https://birot.github.io/book/0000998> a ns1:Book ;
     rdfs:label "Neighbours" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q6988131" .
 
 <https://birot.github.io/book/0000999> a ns1:Book ;
     rdfs:label "Gebrauchsanweisung für Potsdam und Brandenburg" ;
@@ -13410,8 +13683,7 @@
 
 <https://birot.github.io/book/0001000> a ns1:Book ;
     rdfs:label "Grimms Wörter" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q18330670" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0001001> a ns1:Book ;
     rdfs:label "Filmstile" ;
@@ -13506,7 +13778,8 @@
 
 <https://birot.github.io/book/0001024> a ns1:Book ;
     rdfs:label "On Late Style" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q5193482" .
 
 <https://birot.github.io/book/0001025> a ns1:Book ;
     rdfs:label "Auf eigenen Wegen" ;
@@ -13522,7 +13795,8 @@
 
 <https://birot.github.io/book/0001028> a ns1:Book ;
     rdfs:label "So etwas Ähnliches wie die Wahrheit" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1218005" .
 
 <https://birot.github.io/book/0001029> a ns1:Book ;
     rdfs:label "Dear Papa, How is You?" ;
@@ -13538,15 +13812,18 @@
 
 <https://birot.github.io/book/0001032> a ns1:Book ;
     rdfs:label "The Writer's Journey" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q7776328" .
 
 <https://birot.github.io/book/0001033> a ns1:Book ;
     rdfs:label "The Girl on the Train" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q19843206" .
 
 <https://birot.github.io/book/0001034> a ns1:Book ;
     rdfs:label "Moon over Soho" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q6907535" .
 
 <https://birot.github.io/book/0001035> a ns1:Book ;
     rdfs:label "Elterncoaching" ;
@@ -13554,7 +13831,8 @@
 
 <https://birot.github.io/book/0001036> a ns1:Book ;
     rdfs:label "The best of Adam Sharp" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q41663581" .
 
 <https://birot.github.io/book/0001037> a ns1:Book ;
     rdfs:label "Karriere und Kind" ;
@@ -13566,8 +13844,7 @@
 
 <https://birot.github.io/book/0001040> a ns1:Book ;
     rdfs:label "Stoner" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
-    ns1:hasWikidataId "Q7619282" .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> .
 
 <https://birot.github.io/book/0001041> a ns1:Book ;
     rdfs:label "Der Beweis des Jahrhunderts" ;
@@ -13605,11 +13882,13 @@
 
 <https://birot.github.io/book/0001050> a ns1:Book ;
     rdfs:label "Eine gewöhnliche Geschichte" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q3549564" .
 
 <https://birot.github.io/book/0001051> a ns1:Book ;
     rdfs:label "Paris for One" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q20657314" .
 
 <https://birot.github.io/book/0001052> a ns1:Book ;
     rdfs:label "My Map of You" ;
@@ -13633,11 +13912,13 @@
 
 <https://birot.github.io/book/0001057> a ns1:Book ;
     rdfs:label "A Russian Journal" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q4400753" .
 
 <https://birot.github.io/book/0001058> a ns1:Book ;
     rdfs:label "Lamb" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q18725" .
 
 <https://birot.github.io/book/0001059> a ns1:Book ;
     rdfs:label "Ariadna" ;
@@ -13649,7 +13930,8 @@
 
 <https://birot.github.io/book/0001061> a ns1:Book ;
     rdfs:label "Menschen im Hotel" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1920758" .
 
 <https://birot.github.io/book/0001062> a ns1:Book ;
     rdfs:label "6 Österreicher unter den ersten 5" ;
@@ -13693,11 +13975,13 @@
 
 <https://birot.github.io/book/0001073> a ns1:Book ;
     rdfs:label "Der Lärm der Zeit" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q26158014" .
 
 <https://birot.github.io/book/0001074> a ns1:Book ;
     rdfs:label "The Maytrees" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q7750744" .
 
 <https://birot.github.io/book/0001075> a ns1:Book ;
     rdfs:label "Das Beste von allem" ;
@@ -13717,7 +14001,8 @@
 
 <https://birot.github.io/book/0001079> a ns1:Book ;
     rdfs:label "The Left Hand of Darkness" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q2008211" .
 
 <https://birot.github.io/book/0001080> a ns1:Book ;
     rdfs:label "Wers findet, dem gehörts" ;
@@ -13741,7 +14026,8 @@
 
 <https://birot.github.io/book/0001085> a ns1:Book ;
     rdfs:label "Creaturs" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q24288611" .
 
 <https://birot.github.io/book/0001086> a ns1:Book ;
     rdfs:label "The Greatest Films Never Seen" ;
@@ -13761,8 +14047,7 @@
 
 <https://birot.github.io/book/0001091> a ns1:Book ;
     rdfs:label "Schatten im Paradies" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
-    ns1:hasWikidataId "Q3882128" .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> .
 
 <https://birot.github.io/book/0001092> a ns1:Book ;
     rdfs:label "Jungen, wie sie glücklich heranwachsen" ;
@@ -13770,11 +14055,13 @@
 
 <https://birot.github.io/book/0001093> a ns1:Book ;
     rdfs:label "I Owe You One" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q20926316" .
 
 <https://birot.github.io/book/0001094> a ns1:Book ;
     rdfs:label "Die Nacht von Lissabon" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1062814" .
 
 <https://birot.github.io/book/0001095> a ns1:Book ;
     rdfs:label "Eine kurze Geschichte der Menschheit" ;
@@ -13787,7 +14074,8 @@
 
 <https://birot.github.io/book/0001098> a ns1:Book ;
     rdfs:label "Where'd You Go, Bernadette" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q19364488" .
 
 <https://birot.github.io/book/0001099> a ns1:Book ;
     rdfs:label "One Night in Winter" ;
@@ -13823,7 +14111,8 @@
 
 <https://birot.github.io/book/0001107> a ns1:Book ;
     rdfs:label "Neujahr" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q105020486" .
 
 <https://birot.github.io/book/0001108> a ns1:Book ;
     rdfs:label "Vierzig Jahre" ;
@@ -13868,7 +14157,8 @@
 
 <https://birot.github.io/book/0001118> a ns1:Book ;
     rdfs:label "Die Geschwister Oppenheim" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1212981" .
 
 <https://birot.github.io/book/0001119> a ns1:Book ;
     rdfs:label "The Book You Wished Your Parents Had Read" ;
@@ -13905,11 +14195,13 @@
 
 <https://birot.github.io/book/0001128> a ns1:Book ;
     rdfs:label "The Pearl" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q1215393" .
 
 <https://birot.github.io/book/0001129> a ns1:Book ;
     rdfs:label "Der Krötenküsser" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1194998" .
 
 <https://birot.github.io/book/0001130> a ns1:Book ;
     rdfs:label "Im Kernschatten des Mondes" ;
@@ -13921,11 +14213,13 @@
 
 <https://birot.github.io/book/0001132> a ns1:Book ;
     rdfs:label "The Road to Little Dribbling" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000001> .
+    ns1:hasLanguage <https://birot.github.io/language/0000001> ;
+    ns1:hasWikidataId "Q23763219" .
 
 <https://birot.github.io/book/0001133> a ns1:Book ;
     rdfs:label "Drei Kameraden" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1257081" .
 
 <https://birot.github.io/book/0001134> a ns1:Book ;
     rdfs:label "Mein wunderbar schüchternes Kind" ;
@@ -13979,7 +14273,8 @@
 
 <https://birot.github.io/book/0000566> a ns1:Book ;
     rdfs:label "Das Peter-Prinzip: oder Die Hierarchie der Unfähigen" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q497359" .
 
 <https://birot.github.io/book/0000610> a ns1:Book ;
     rdfs:label "Picknick am Wegesrand" ;
@@ -14031,7 +14326,8 @@
 
 <https://birot.github.io/book/0000971> a ns1:Book ;
     rdfs:label "Herzzeit" ;
-    ns1:hasLanguage <https://birot.github.io/language/0000000> .
+    ns1:hasLanguage <https://birot.github.io/language/0000000> ;
+    ns1:hasWikidataId "Q1887393" .
 
 <https://birot.github.io/book/0000974> a ns1:Book ;
     rdfs:label "Where the Wizards Stay Up Late" ;
